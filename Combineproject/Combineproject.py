@@ -4,8 +4,5 @@ b=20
 c=a+b
 print("Addition = "+c)
 
+print("hello")
 
-d=10
-e=20
-f=d+e
-print("Addition = "+f)
